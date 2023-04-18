@@ -243,4 +243,10 @@
       title: 'Video Game Club 46.0',
       games: ['Season: A letter to the future']
     },
+    {
+      date: '2023-05-14',
+      title: 'Video Game Club 47.0',
+      games: ['Dredge', 'The Gostak'],
+      alternate_side_games: ['Wall World', 'Storyteller', 'Citizen Sleeper: Episodes']
+    },
 ]
